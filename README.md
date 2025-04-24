@@ -15,7 +15,7 @@ Apkalikacja2 to aplikacja desktopowa napisana w języku C# z wykorzystaniem bibl
   - [GMap.NET](https://github.com/radioman/greatmaps)
 
 ## Instalacja
-1. Sklonuj repozytorium: git clone https://github.com/Kofholik/MapAIS.git
+1. Sklonuj repozytorium: ```bash git clone https://github.com/Kofholik/MapAIS.git ```
 2. Otwórz projekt w Visual Studio 2022.
 3. Upewnij się, że wszystkie wymagane biblioteki są zainstalowane (np. GMap.NET).
 4. Skonfiguruj pliki danych w folderze `Resources`:
@@ -44,6 +44,11 @@ Projekt został stworzony w ramach przedmiotu **Informatyka w Nawigacji** na stu
 Projekt został stworzony jako przykład aplikacji wykorzystującej dane AIS i bibliotekę GMap.NET.
 
 ## Licencja
-Ten projekt jest udostępniany na licencji MIT. Szczegóły znajdują się w pliku `LICENSE`.
+Ten projekt jest udostępniany na licencji MIT. Szczegóły znajdują się w pliku [MIT](LICENSE).
+
+## Kontakt
+
+Jeśli masz pytania, skontaktuj się ze mną za pośrednictwem [GitHub Issues](https://github.com/Kofholik/MapAIS/issues)
+
 
    
