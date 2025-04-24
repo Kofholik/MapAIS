@@ -1,0 +1,58 @@
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\Apkalikacja2.exe.config
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\Apkalikacja2.exe
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\Apkalikacja2.pdb
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\EntityFramework.dll
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\GMap.NET.Core.dll
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\GMap.NET.WindowsForms.dll
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\GMap.NET.WindowsPresentation.dll
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\Newtonsoft.Json.dll
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\System.Data.SqlClient.dll
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\System.Data.SQLite.dll
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\System.Data.SQLite.EF6.dll
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\System.Data.SQLite.Linq.dll
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\System.Security.Principal.Windows.dll
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\EntityFramework.xml
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\Newtonsoft.Json.xml
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\System.Data.SqlClient.xml
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\System.Data.SQLite.xml
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\bin\Debug\System.Security.Principal.Windows.xml
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\obj\Debug\Apkalikacja2.csproj.AssemblyReference.cache
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\obj\Debug\Apkalikacja2.Form1.resources
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\obj\Debug\Apkalikacja2.Properties.Resources.resources
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\obj\Debug\Apkalikacja2.csproj.GenerateResource.cache
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\obj\Debug\Apkalikacja2.csproj.CoreCompileInputs.cache
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\obj\Debug\Apkalikacja2.csproj.CopyComplete
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\obj\Debug\Apkalikacja2.exe
+Z:\Uczelnia\Informatyzacja w nawigacji\LAB11\Apkalikacja2\obj\Debug\Apkalikacja2.pdb
+C:\Programowanie\Apkalikacja2\bin\Debug\Apkalikacja2.exe.config
+C:\Programowanie\Apkalikacja2\bin\Debug\Apkalikacja2.exe
+C:\Programowanie\Apkalikacja2\bin\Debug\Apkalikacja2.pdb
+C:\Programowanie\Apkalikacja2\bin\Debug\EntityFramework.dll
+C:\Programowanie\Apkalikacja2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Programowanie\Apkalikacja2\bin\Debug\GMap.NET.Core.dll
+C:\Programowanie\Apkalikacja2\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Programowanie\Apkalikacja2\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Programowanie\Apkalikacja2\bin\Debug\Newtonsoft.Json.dll
+C:\Programowanie\Apkalikacja2\bin\Debug\System.Data.SqlClient.dll
+C:\Programowanie\Apkalikacja2\bin\Debug\System.Data.SQLite.dll
+C:\Programowanie\Apkalikacja2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Programowanie\Apkalikacja2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Programowanie\Apkalikacja2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Programowanie\Apkalikacja2\bin\Debug\EntityFramework.xml
+C:\Programowanie\Apkalikacja2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Programowanie\Apkalikacja2\bin\Debug\Newtonsoft.Json.xml
+C:\Programowanie\Apkalikacja2\bin\Debug\System.Data.SqlClient.xml
+C:\Programowanie\Apkalikacja2\bin\Debug\System.Data.SQLite.xml
+C:\Programowanie\Apkalikacja2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Programowanie\Apkalikacja2\obj\Debug\Apkalikacja2.csproj.AssemblyReference.cache
+C:\Programowanie\Apkalikacja2\obj\Debug\Apkalikacja2.Form1.resources
+C:\Programowanie\Apkalikacja2\obj\Debug\Apkalikacja2.Properties.Resources.resources
+C:\Programowanie\Apkalikacja2\obj\Debug\Apkalikacja2.csproj.GenerateResource.cache
+C:\Programowanie\Apkalikacja2\obj\Debug\Apkalikacja2.csproj.CoreCompileInputs.cache
+C:\Programowanie\Apkalikacja2\obj\Debug\Apkalika.D720F34A.Up2Date
+C:\Programowanie\Apkalikacja2\obj\Debug\Apkalikacja2.exe
+C:\Programowanie\Apkalikacja2\obj\Debug\Apkalikacja2.pdb
+C:\Programowanie\Apkalikacja2\bin\Debug\Resources\kom_sensor_ais.txt
+C:\Programowanie\Apkalikacja2\bin\Debug\Resources\kom_sensor_ais2.txt
